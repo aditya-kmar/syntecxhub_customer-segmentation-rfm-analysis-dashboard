@@ -117,13 +117,16 @@ This dashboard helps businesses:
 
 
 ### Customer Segmentation
-> Add Screenshot Here
+> <img width="1920" height="1020" alt="Customer Segmentation preview" src="https://github.com/user-attachments/assets/0b987531-faf7-47a0-87cf-3c4b876d492d" />
+
 
 ### Customer Details
+> <img width="1920" height="1020" alt="Customer Details preview" src="https://github.com/user-attachments/assets/75cc722d-1230-4d20-8b64-8f913feb3850" />
 
 
 ### Segment Description
-> Add Screenshot Here
+> <img width="1920" height="1020" alt="Segment Description Preview" src="https://github.com/user-attachments/assets/6f5bccea-0864-4dc0-ae7e-c5d09de7f693" />
+
 
 ---
 
@@ -157,9 +160,9 @@ This dashboard helps businesses:
 
 📧 Email: aadityagalyan@gmail.com
 
-🔗 LinkedIn: *Add Your LinkedIn Profile*
+🔗 LinkedIn: https://www.linkedin.com/in/aditya-kumarofficial/
 
-💻 GitHub: *Add Your GitHub Profile*
+💻 GitHub: https://github.com/aditya-kmar
 
 ---
 
